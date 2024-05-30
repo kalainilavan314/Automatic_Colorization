@@ -22,8 +22,8 @@ This project implements an automatic colorization algorithm for black and white 
 ### Steps
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/automatic-colorization.git
-    cd automatic-colorization
+    git clone https://github.com/kalainilavan314/Automatic_Colorization.git
+    cd Automatic_Colorization
     ```
 2. Install the required Python packages:
     ```sh
